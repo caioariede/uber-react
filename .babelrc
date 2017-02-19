@@ -1,0 +1,3 @@
+{
+"presets": ["react-native", "react-native-dotenv"]
+}
