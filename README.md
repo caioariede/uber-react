@@ -1,7 +1,7 @@
 # uber-react
 Uber-like project in React Native
 
-<img src="screen.png" width="300" />
+<img src="screen.gif" width="300" />
 
 # configuration
 
