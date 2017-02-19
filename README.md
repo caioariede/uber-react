@@ -1,6 +1,8 @@
 # uber-react
 Uber-like project in React Native
 
+<img src="screen.png" width="300" />
+
 # configuration
 
 **File:** `.env`
