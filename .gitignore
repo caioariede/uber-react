@@ -1,4 +1,5 @@
 .env
+/fake_drivers/serviceAccountCredentials.json
 
 # OSX
 #
