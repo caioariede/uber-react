@@ -22,3 +22,22 @@ All these credentials you get from either Firebase or MapBox websites.
 Get it from Firebase Service Accounts:
 
 https://console.firebase.google.com/project/_/settings/serviceaccounts/adminsdk
+
+# running
+```
+reaect-native run-ios
+```
+
+For the fake drivers:
+```
+cd fake_drivers
+pip install -r requirements.txt
+```
+
+then
+
+```
+python fake_drivers.py <your latitude>,<your longitude>
+```
+
+***Do not forget to place the serviceAccountCredentials.json file in the same directory as described in the installation section***
