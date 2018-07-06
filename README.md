@@ -27,7 +27,7 @@ https://console.firebase.google.com/project/_/settings/serviceaccounts/adminsdk
 
 # running
 ```
-reaect-native run-ios
+react-native run-ios
 ```
 
 For the fake drivers:
